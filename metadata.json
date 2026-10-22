@@ -1,0 +1,6 @@
+{
+  "name": "Lichess-Style Chess Analysis & Stockfish Engine",
+  "description": "Real-time chess board analysis powered by Stockfish with customizable engine strength, multi-line arrows, evaluation bar, move variations, and full game review with accuracy estimates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
